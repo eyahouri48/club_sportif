@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏋️ Pour La Forme — Sport & Bien-être
+# 🏋️ Pour La Forme : Sport & Bien-être
 
 **Application desktop de gestion complète d'un club sportif**
 
